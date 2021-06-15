@@ -9,6 +9,8 @@ Exercício programa que faz a emulação de um Autômato Finito não Determinís
 - Se não tiver o HomeBrew instalado no MacOS, também é possível baixar o Python através do site: https://www.python.org/downloads/
 - Também é possível rodar online com o uso do https://replit.com/
 
-Utilize a seguinte linha de comando:
+Utilize a seguinte linha de comando para testar o programa:
 
-````python afn.py````
+````
+  python afn.py
+````
