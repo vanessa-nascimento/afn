@@ -1,5 +1,4 @@
 # coding=UTF-8
-# Vanessa Alves do Nascimento 10882848
 
 #EXERCICIO PROGRAMA: EMULAÇÃO DE AFN
 
